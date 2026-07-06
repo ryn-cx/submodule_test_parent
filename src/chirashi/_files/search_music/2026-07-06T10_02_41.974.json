@@ -1,0 +1,670 @@
+[
+  {
+    "id": "MV8F353609",
+    "new": false,
+    "title": "Friends",
+    "description": "",
+    "type": "musicVideo",
+    "slug": "friends",
+    "images": {
+      "thumbnail": [
+        {
+          "width": 320,
+          "height": 180,
+          "type": "thumbnail",
+          "source": "https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/music/4c169dc44a2bdb8a2f60a270f4da68ca.jpeg"
+        },
+        {
+          "width": 600,
+          "height": 338,
+          "type": "thumbnail",
+          "source": "https://www.crunchyroll.com/imgsrv/display/thumbnail/600x338/catalog/music/4c169dc44a2bdb8a2f60a270f4da68ca.jpeg"
+        },
+        {
+          "width": 640,
+          "height": 360,
+          "type": "thumbnail",
+          "source": "https://www.crunchyroll.com/imgsrv/display/thumbnail/640x360/catalog/music/4c169dc44a2bdb8a2f60a270f4da68ca.jpeg"
+        },
+        {
+          "width": 800,
+          "height": 450,
+          "type": "thumbnail",
+          "source": "https://www.crunchyroll.com/imgsrv/display/thumbnail/800x450/catalog/music/4c169dc44a2bdb8a2f60a270f4da68ca.jpeg"
+        },
+        {
+          "width": 1200,
+          "height": 675,
+          "type": "thumbnail",
+          "source": "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/music/4c169dc44a2bdb8a2f60a270f4da68ca.jpeg"
+        },
+        {
+          "width": 1440,
+          "height": 810,
+          "type": "thumbnail",
+          "source": "https://www.crunchyroll.com/imgsrv/display/thumbnail/1440x810/catalog/music/4c169dc44a2bdb8a2f60a270f4da68ca.jpeg"
+        },
+        {
+          "width": 1600,
+          "height": 900,
+          "type": "thumbnail",
+          "source": "https://www.crunchyroll.com/imgsrv/display/thumbnail/1600x900/catalog/music/4c169dc44a2bdb8a2f60a270f4da68ca.jpeg"
+        },
+        {
+          "width": 1920,
+          "height": 1080,
+          "type": "thumbnail",
+          "source": "https://www.crunchyroll.com/imgsrv/display/thumbnail/1920x1080/catalog/music/4c169dc44a2bdb8a2f60a270f4da68ca.jpeg"
+        }
+      ]
+    },
+    "search_metadata": {
+      "score": 29.03128
+    },
+    "artists": {
+      "MainArtist": [
+        {
+          "connector": "",
+          "id": "MA296DD469",
+          "name": "wacci",
+          "roles": [
+            "MainArtist"
+          ],
+          "sequenceNumber": 1,
+          "slug": "wacci"
+        }
+      ]
+    },
+    "maturityRatings": {},
+    "genres": [
+      {
+        "displayValue": "J-Pop",
+        "id": "j-pop"
+      }
+    ],
+    "isMature": false,
+    "isPublic": true,
+    "licensor": "Sony Music Labels Inc.",
+    "durationMs": 250000,
+    "availability": {
+      "endDate": "2099-05-14T00:00:00Z",
+      "startDate": "2020-09-09T00:00:00Z"
+    },
+    "createdAt": "2023-05-16T13:15:44.51Z",
+    "readyToPublish": true,
+    "animeIds": [
+      "GRXJP0PNY"
+    ],
+    "hash": "44abe27b6315a0d26840a664abf9a5de",
+    "sequenceNumber": 1,
+    "isPremiumOnly": true,
+    "publishDate": "2023-06-26T15:00:00Z",
+    "updatedAt": "2023-10-27T08:55:03.133Z",
+    "artist": {
+      "id": "MA296DD469",
+      "name": "wacci",
+      "slug": "wacci"
+    },
+    "displayArtistNameRequired": false,
+    "streams_link": "/content/v2/music/MV8F353609/streams",
+    "displayArtistName": "wacci",
+    "originalRelease": "2020-03-04T00:00:00Z",
+    "matureBlocked": false,
+    "copyright": "(C) 2020 Sony Music Labels Inc."
+  },
+  {
+    "id": "MV422EEA4D",
+    "new": false,
+    "title": "Friendly",
+    "description": "",
+    "type": "musicVideo",
+    "slug": "friendly",
+    "images": {
+      "thumbnail": [
+        {
+          "width": 320,
+          "height": 180,
+          "type": "thumbnail",
+          "source": "https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/music/189650aac7635e3b5b26742252f552bc.jpeg"
+        },
+        {
+          "width": 600,
+          "height": 338,
+          "type": "thumbnail",
+          "source": "https://www.crunchyroll.com/imgsrv/display/thumbnail/600x338/catalog/music/189650aac7635e3b5b26742252f552bc.jpeg"
+        },
+        {
+          "width": 640,
+          "height": 360,
+          "type": "thumbnail",
+          "source": "https://www.crunchyroll.com/imgsrv/display/thumbnail/640x360/catalog/music/189650aac7635e3b5b26742252f552bc.jpeg"
+        },
+        {
+          "width": 800,
+          "height": 450,
+          "type": "thumbnail",
+          "source": "https://www.crunchyroll.com/imgsrv/display/thumbnail/800x450/catalog/music/189650aac7635e3b5b26742252f552bc.jpeg"
+        },
+        {
+          "width": 1200,
+          "height": 675,
+          "type": "thumbnail",
+          "source": "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/music/189650aac7635e3b5b26742252f552bc.jpeg"
+        },
+        {
+          "width": 1440,
+          "height": 810,
+          "type": "thumbnail",
+          "source": "https://www.crunchyroll.com/imgsrv/display/thumbnail/1440x810/catalog/music/189650aac7635e3b5b26742252f552bc.jpeg"
+        },
+        {
+          "width": 1600,
+          "height": 900,
+          "type": "thumbnail",
+          "source": "https://www.crunchyroll.com/imgsrv/display/thumbnail/1600x900/catalog/music/189650aac7635e3b5b26742252f552bc.jpeg"
+        },
+        {
+          "width": 1920,
+          "height": 1080,
+          "type": "thumbnail",
+          "source": "https://www.crunchyroll.com/imgsrv/display/thumbnail/1920x1080/catalog/music/189650aac7635e3b5b26742252f552bc.jpeg"
+        }
+      ]
+    },
+    "search_metadata": {
+      "score": 29.03128
+    },
+    "artists": {
+      "MainArtist": [
+        {
+          "connector": "",
+          "id": "MAA0B52769",
+          "name": "Kenichi Asai",
+          "roles": [
+            "MainArtist"
+          ],
+          "sequenceNumber": 1,
+          "slug": "kenichi-asai"
+        }
+      ]
+    },
+    "maturityRatings": {},
+    "genres": [
+      {
+        "displayValue": "Rock",
+        "id": "rock"
+      }
+    ],
+    "isMature": false,
+    "isPublic": true,
+    "licensor": "Sony Music Labels Inc.",
+    "durationMs": 252000,
+    "availability": {
+      "endDate": "2099-05-14T00:00:00Z",
+      "startDate": "2021-06-19T00:00:00Z"
+    },
+    "createdAt": "2023-03-07T07:22:11.141Z",
+    "readyToPublish": true,
+    "animeIds": [],
+    "hash": "8014fe743c6dcefc7d2330d95becb2ee",
+    "sequenceNumber": 1,
+    "isPremiumOnly": true,
+    "publishDate": "2023-04-27T13:00:00Z",
+    "updatedAt": "2025-10-08T22:11:19.171Z",
+    "artist": {
+      "id": "MAA0B52769",
+      "name": "Kenichi Asai",
+      "slug": "kenichi-asai"
+    },
+    "displayArtistNameRequired": false,
+    "streams_link": "/content/v2/music/MV422EEA4D/streams",
+    "displayArtistName": "Kenichi Asai",
+    "originalRelease": "2009-07-22T00:00:00Z",
+    "matureBlocked": false,
+    "copyright": "(C) 2009 Sony Music Labels Inc."
+  },
+  {
+    "id": "MV719ECB8D",
+    "new": false,
+    "title": "Dear Friend",
+    "description": "",
+    "type": "musicVideo",
+    "slug": "dear-friend",
+    "images": {
+      "thumbnail": [
+        {
+          "width": 320,
+          "height": 180,
+          "type": "thumbnail",
+          "source": "https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/music/f5cf7787aab466f5d86f9dbd05baacd4.jpeg"
+        },
+        {
+          "width": 600,
+          "height": 338,
+          "type": "thumbnail",
+          "source": "https://www.crunchyroll.com/imgsrv/display/thumbnail/600x338/catalog/music/f5cf7787aab466f5d86f9dbd05baacd4.jpeg"
+        },
+        {
+          "width": 640,
+          "height": 360,
+          "type": "thumbnail",
+          "source": "https://www.crunchyroll.com/imgsrv/display/thumbnail/640x360/catalog/music/f5cf7787aab466f5d86f9dbd05baacd4.jpeg"
+        },
+        {
+          "width": 800,
+          "height": 450,
+          "type": "thumbnail",
+          "source": "https://www.crunchyroll.com/imgsrv/display/thumbnail/800x450/catalog/music/f5cf7787aab466f5d86f9dbd05baacd4.jpeg"
+        },
+        {
+          "width": 1200,
+          "height": 675,
+          "type": "thumbnail",
+          "source": "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/music/f5cf7787aab466f5d86f9dbd05baacd4.jpeg"
+        },
+        {
+          "width": 1440,
+          "height": 810,
+          "type": "thumbnail",
+          "source": "https://www.crunchyroll.com/imgsrv/display/thumbnail/1440x810/catalog/music/f5cf7787aab466f5d86f9dbd05baacd4.jpeg"
+        },
+        {
+          "width": 1600,
+          "height": 900,
+          "type": "thumbnail",
+          "source": "https://www.crunchyroll.com/imgsrv/display/thumbnail/1600x900/catalog/music/f5cf7787aab466f5d86f9dbd05baacd4.jpeg"
+        },
+        {
+          "width": 1920,
+          "height": 1080,
+          "type": "thumbnail",
+          "source": "https://www.crunchyroll.com/imgsrv/display/thumbnail/1920x1080/catalog/music/f5cf7787aab466f5d86f9dbd05baacd4.jpeg"
+        }
+      ]
+    },
+    "search_metadata": {
+      "score": 28.418627
+    },
+    "artists": {
+      "MainArtist": [
+        {
+          "connector": "",
+          "id": "MA49AC0E8D",
+          "name": "Sowelu",
+          "roles": [
+            "MainArtist"
+          ],
+          "sequenceNumber": 1,
+          "slug": "sowelu"
+        }
+      ]
+    },
+    "maturityRatings": {},
+    "genres": [
+      {
+        "displayValue": "J-Pop",
+        "id": "j-pop"
+      }
+    ],
+    "isMature": false,
+    "isPublic": true,
+    "licensor": "Sony Music Labels Inc.",
+    "durationMs": 218000,
+    "availability": {
+      "endDate": "2099-05-14T00:00:00Z",
+      "startDate": "2015-07-01T00:00:00Z"
+    },
+    "createdAt": "2023-05-16T13:17:21.942Z",
+    "readyToPublish": true,
+    "animeIds": [],
+    "hash": "61d42fd40a225521fcc709ae7132d25e",
+    "sequenceNumber": 1,
+    "isPremiumOnly": true,
+    "publishDate": "2023-06-26T15:00:00Z",
+    "updatedAt": "2025-11-13T11:05:50.56Z",
+    "artist": {
+      "id": "MA49AC0E8D",
+      "name": "Sowelu",
+      "slug": "sowelu"
+    },
+    "displayArtistNameRequired": false,
+    "streams_link": "/content/v2/music/MV719ECB8D/streams",
+    "displayArtistName": "Sowelu",
+    "originalRelease": "2014-10-15T00:00:00Z",
+    "matureBlocked": false,
+    "copyright": "(C) 2006 Sony Music Labels Inc."
+  },
+  {
+    "id": "MV1AB9A13F",
+    "new": false,
+    "title": "Best Friend",
+    "description": "",
+    "type": "musicVideo",
+    "slug": "best-friend",
+    "images": {
+      "thumbnail": [
+        {
+          "width": 320,
+          "height": 180,
+          "type": "thumbnail",
+          "source": "https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/music/c8647a3d253aecb5b20364ee251e2bce.jpeg"
+        },
+        {
+          "width": 600,
+          "height": 338,
+          "type": "thumbnail",
+          "source": "https://www.crunchyroll.com/imgsrv/display/thumbnail/600x338/catalog/music/c8647a3d253aecb5b20364ee251e2bce.jpeg"
+        },
+        {
+          "width": 640,
+          "height": 360,
+          "type": "thumbnail",
+          "source": "https://www.crunchyroll.com/imgsrv/display/thumbnail/640x360/catalog/music/c8647a3d253aecb5b20364ee251e2bce.jpeg"
+        },
+        {
+          "width": 800,
+          "height": 450,
+          "type": "thumbnail",
+          "source": "https://www.crunchyroll.com/imgsrv/display/thumbnail/800x450/catalog/music/c8647a3d253aecb5b20364ee251e2bce.jpeg"
+        },
+        {
+          "width": 1200,
+          "height": 675,
+          "type": "thumbnail",
+          "source": "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/music/c8647a3d253aecb5b20364ee251e2bce.jpeg"
+        },
+        {
+          "width": 1440,
+          "height": 810,
+          "type": "thumbnail",
+          "source": "https://www.crunchyroll.com/imgsrv/display/thumbnail/1440x810/catalog/music/c8647a3d253aecb5b20364ee251e2bce.jpeg"
+        },
+        {
+          "width": 1600,
+          "height": 900,
+          "type": "thumbnail",
+          "source": "https://www.crunchyroll.com/imgsrv/display/thumbnail/1600x900/catalog/music/c8647a3d253aecb5b20364ee251e2bce.jpeg"
+        },
+        {
+          "width": 1920,
+          "height": 1080,
+          "type": "thumbnail",
+          "source": "https://www.crunchyroll.com/imgsrv/display/thumbnail/1920x1080/catalog/music/c8647a3d253aecb5b20364ee251e2bce.jpeg"
+        }
+      ]
+    },
+    "search_metadata": {
+      "score": 28.418627
+    },
+    "artists": {
+      "MainArtist": [
+        {
+          "connector": "",
+          "id": "MA2059AF6E",
+          "name": "Kana Nishino",
+          "roles": [
+            "MainArtist"
+          ],
+          "sequenceNumber": 1,
+          "slug": "kana-nishino"
+        }
+      ]
+    },
+    "maturityRatings": {},
+    "genres": [
+      {
+        "displayValue": "J-Pop",
+        "id": "j-pop"
+      }
+    ],
+    "isMature": false,
+    "isPublic": true,
+    "licensor": "Sony Music Labels Inc.",
+    "durationMs": 345000,
+    "availability": {
+      "endDate": "2099-05-14T00:00:00Z",
+      "startDate": "2024-07-05T00:00:00Z"
+    },
+    "createdAt": "2024-07-12T22:30:45.885Z",
+    "readyToPublish": true,
+    "animeIds": [],
+    "hash": "ba9ec26fad808b1149fc4debe4e874c0",
+    "sequenceNumber": 1,
+    "isPremiumOnly": true,
+    "publishDate": "2024-07-17T19:00:00Z",
+    "updatedAt": "2026-01-13T00:04:32.394Z",
+    "artist": {
+      "id": "MA2059AF6E",
+      "name": "Kana Nishino",
+      "slug": "kana-nishino"
+    },
+    "displayArtistNameRequired": false,
+    "streams_link": "/content/v2/music/MV1AB9A13F/streams",
+    "displayArtistName": "Kana Nishino",
+    "originalRelease": "2010-02-24T00:00:00Z",
+    "matureBlocked": false,
+    "copyright": "(C) 2010 Sony Music Labels Inc."
+  },
+  {
+    "id": "MV4BB8CE9A",
+    "new": false,
+    "title": "My Friend",
+    "description": "",
+    "type": "musicVideo",
+    "slug": "my-friend",
+    "images": {
+      "thumbnail": [
+        {
+          "width": 320,
+          "height": 180,
+          "type": "thumbnail",
+          "source": "https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/music/9d4ebce813ba4f03f1b44bdd760a8e90.jpeg"
+        },
+        {
+          "width": 600,
+          "height": 338,
+          "type": "thumbnail",
+          "source": "https://www.crunchyroll.com/imgsrv/display/thumbnail/600x338/catalog/music/9d4ebce813ba4f03f1b44bdd760a8e90.jpeg"
+        },
+        {
+          "width": 640,
+          "height": 360,
+          "type": "thumbnail",
+          "source": "https://www.crunchyroll.com/imgsrv/display/thumbnail/640x360/catalog/music/9d4ebce813ba4f03f1b44bdd760a8e90.jpeg"
+        },
+        {
+          "width": 800,
+          "height": 450,
+          "type": "thumbnail",
+          "source": "https://www.crunchyroll.com/imgsrv/display/thumbnail/800x450/catalog/music/9d4ebce813ba4f03f1b44bdd760a8e90.jpeg"
+        },
+        {
+          "width": 1200,
+          "height": 675,
+          "type": "thumbnail",
+          "source": "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/music/9d4ebce813ba4f03f1b44bdd760a8e90.jpeg"
+        },
+        {
+          "width": 1440,
+          "height": 810,
+          "type": "thumbnail",
+          "source": "https://www.crunchyroll.com/imgsrv/display/thumbnail/1440x810/catalog/music/9d4ebce813ba4f03f1b44bdd760a8e90.jpeg"
+        },
+        {
+          "width": 1600,
+          "height": 900,
+          "type": "thumbnail",
+          "source": "https://www.crunchyroll.com/imgsrv/display/thumbnail/1600x900/catalog/music/9d4ebce813ba4f03f1b44bdd760a8e90.jpeg"
+        },
+        {
+          "width": 1920,
+          "height": 1080,
+          "type": "thumbnail",
+          "source": "https://www.crunchyroll.com/imgsrv/display/thumbnail/1920x1080/catalog/music/9d4ebce813ba4f03f1b44bdd760a8e90.jpeg"
+        }
+      ]
+    },
+    "search_metadata": {
+      "score": 28.418627
+    },
+    "artists": {
+      "MainArtist": [
+        {
+          "connector": "",
+          "id": "MA2333AA0A",
+          "name": "Rina Sumioka",
+          "roles": [
+            "MainArtist"
+          ],
+          "sequenceNumber": 1,
+          "slug": "rina-sumioka"
+        }
+      ]
+    },
+    "maturityRatings": {},
+    "genres": [
+      {
+        "displayValue": "J-Pop",
+        "id": "j-pop"
+      }
+    ],
+    "isMature": false,
+    "isPublic": true,
+    "licensor": "Sony Music Labels Inc.",
+    "durationMs": 237000,
+    "availability": {
+      "endDate": "2099-05-14T00:00:00Z",
+      "startDate": "2014-08-04T00:00:00Z"
+    },
+    "createdAt": "2023-03-07T07:21:15.842Z",
+    "readyToPublish": true,
+    "animeIds": [],
+    "hash": "ddc4b4c6a98ca35539af923d9253f089",
+    "sequenceNumber": 1,
+    "isPremiumOnly": true,
+    "publishDate": "2023-04-27T13:00:00Z",
+    "updatedAt": "2025-11-08T00:15:45.72Z",
+    "artist": {
+      "id": "MA2333AA0A",
+      "name": "Rina Sumioka",
+      "slug": "rina-sumioka"
+    },
+    "displayArtistNameRequired": false,
+    "streams_link": "/content/v2/music/MV4BB8CE9A/streams",
+    "displayArtistName": "Rina Sumioka",
+    "originalRelease": "2014-08-04T00:00:00Z",
+    "matureBlocked": false,
+    "copyright": "(C)SonyMusic"
+  },
+  {
+    "id": "MV74384982",
+    "new": false,
+    "title": "My Best Friend",
+    "description": "",
+    "type": "musicVideo",
+    "slug": "my-best-friend",
+    "images": {
+      "thumbnail": [
+        {
+          "width": 320,
+          "height": 180,
+          "type": "thumbnail",
+          "source": "https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/music/5356193cb18a91ffee7f5ef795165907.jpeg"
+        },
+        {
+          "width": 600,
+          "height": 338,
+          "type": "thumbnail",
+          "source": "https://www.crunchyroll.com/imgsrv/display/thumbnail/600x338/catalog/music/5356193cb18a91ffee7f5ef795165907.jpeg"
+        },
+        {
+          "width": 640,
+          "height": 360,
+          "type": "thumbnail",
+          "source": "https://www.crunchyroll.com/imgsrv/display/thumbnail/640x360/catalog/music/5356193cb18a91ffee7f5ef795165907.jpeg"
+        },
+        {
+          "width": 800,
+          "height": 450,
+          "type": "thumbnail",
+          "source": "https://www.crunchyroll.com/imgsrv/display/thumbnail/800x450/catalog/music/5356193cb18a91ffee7f5ef795165907.jpeg"
+        },
+        {
+          "width": 1200,
+          "height": 675,
+          "type": "thumbnail",
+          "source": "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/music/5356193cb18a91ffee7f5ef795165907.jpeg"
+        },
+        {
+          "width": 1440,
+          "height": 810,
+          "type": "thumbnail",
+          "source": "https://www.crunchyroll.com/imgsrv/display/thumbnail/1440x810/catalog/music/5356193cb18a91ffee7f5ef795165907.jpeg"
+        },
+        {
+          "width": 1600,
+          "height": 900,
+          "type": "thumbnail",
+          "source": "https://www.crunchyroll.com/imgsrv/display/thumbnail/1600x900/catalog/music/5356193cb18a91ffee7f5ef795165907.jpeg"
+        },
+        {
+          "width": 1920,
+          "height": 1080,
+          "type": "thumbnail",
+          "source": "https://www.crunchyroll.com/imgsrv/display/thumbnail/1920x1080/catalog/music/5356193cb18a91ffee7f5ef795165907.jpeg"
+        }
+      ]
+    },
+    "search_metadata": {
+      "score": 27.84156
+    },
+    "artists": {
+      "MainArtist": [
+        {
+          "connector": "",
+          "id": "MA574DF914",
+          "name": "Little Glee Monster",
+          "roles": [
+            "MainArtist"
+          ],
+          "sequenceNumber": 1,
+          "slug": "little-glee-monster"
+        }
+      ]
+    },
+    "maturityRatings": {},
+    "genres": [
+      {
+        "displayValue": "J-Pop",
+        "id": "j-pop"
+      }
+    ],
+    "isMature": false,
+    "isPublic": true,
+    "licensor": "Sony Music Labels Inc.",
+    "durationMs": 342000,
+    "availability": {
+      "endDate": "2099-05-14T00:00:00Z",
+      "startDate": "2016-04-18T00:00:00Z"
+    },
+    "createdAt": "2023-05-16T18:11:40.349Z",
+    "readyToPublish": true,
+    "animeIds": [],
+    "hash": "36eddd4bd4a224ddd830a1253aa69b1d",
+    "sequenceNumber": 1,
+    "isPremiumOnly": true,
+    "publishDate": "2023-05-31T13:00:00Z",
+    "updatedAt": "2023-10-27T07:13:23.258Z",
+    "artist": {
+      "id": "MA574DF914",
+      "name": "Little Glee Monster",
+      "slug": "little-glee-monster"
+    },
+    "displayArtistNameRequired": false,
+    "streams_link": "/content/v2/music/MV74384982/streams",
+    "displayArtistName": "Little Glee Monster",
+    "originalRelease": "2016-05-11T00:00:00Z",
+    "matureBlocked": false,
+    "copyright": "(C) 2016 Sony Music Labels Inc."
+  }
+]

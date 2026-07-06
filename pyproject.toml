@@ -1,0 +1,38 @@
+[project]
+name = "chirashi"
+version = "0.1.0"
+description = "Unofficial Crunchyroll API."
+readme = "README.md"
+requires-python = ">=3.14"
+authors = [
+  { name = "ryn-cx", email = "262888154+ryn-cx@users.noreply.github.com" }
+]
+dependencies = [
+  "get-around",
+  "good-ass-pydantic-integrator",
+]
+
+[dependency-groups]
+dev = [
+  "prek>=0.3.2",
+  "pytest>=8.4.2",
+  "python-dotenv>=1.2.1",
+  "ruff>=0.13.3",
+]
+
+[build-system]
+requires = ["uv_build>=0.9.18,<0.10.0"]
+build-backend = "uv_build"
+
+[tool.ruff.lint]
+select = ["ALL"]
+
+[tool.ruff.lint.pydocstyle]
+convention = "google"
+
+[tool.ruff.lint.per-file-ignores]
+"tests/**/*.py" = ["S101"]  # Asserts should be allowed in tests.
+
+[tool.uv.sources]
+get-around = { git = "https://github.com/ryn-cx/get-around" }
+good-ass-pydantic-integrator = { git = "https://github.com/ryn-cx/good-ass-pydantic-integrator" }

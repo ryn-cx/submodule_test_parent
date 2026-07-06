@@ -1,0 +1,323 @@
+{
+  "data": [
+    {
+      "id": "GYE5CQMQ5",
+      "channel_id": "crunchyroll",
+      "title": "Season 1",
+      "slug_title": "season-1",
+      "series_id": "GG5H5XQX4",
+      "season_display_number": "",
+      "season_sequence_number": 1,
+      "season_number": 1,
+      "is_complete": false,
+      "description": "After the party of heroes defeated the Demon King, they restored peace to the land and returned to lives of solitude. Generations pass, and the elven mage Frieren comes face to face with humanity\u2019s mortality. She takes on a new apprentice and promises to fulfill old friends\u2019 dying wishes. Can an elven mind make peace with the nature of life and death? Frieren embarks on her quest to find out.",
+      "keywords": [
+        "winter-2024",
+        "summer-2023",
+        "fall-2023"
+      ],
+      "season_tags": [
+        "winter-2024",
+        "summer-2023",
+        "fall-2023"
+      ],
+      "images": {},
+      "extended_maturity_rating": {
+        "system": "cr-tv",
+        "rating": "14",
+        "level": "M2"
+      },
+      "maturity_ratings": [
+        "TV-14"
+      ],
+      "content_descriptors": [
+        "Violence",
+        "Drug/Alcohol Use",
+        "Profanity"
+      ],
+      "content_descriptors_with_symbol": [
+        {
+          "label": "Violence"
+        },
+        {
+          "label": "Drug/Alcohol Use"
+        },
+        {
+          "label": "Profanity"
+        }
+      ],
+      "is_mature": false,
+      "mature_blocked": false,
+      "is_subbed": true,
+      "is_dubbed": true,
+      "is_simulcast": false,
+      "seo_title": "",
+      "seo_description": "",
+      "availability_notes": "",
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "th-TH",
+        "id-ID",
+        "ru-RU",
+        "ar-SA",
+        "es-419",
+        "zh-CN",
+        "de-DE",
+        "zh-HK",
+        "en-US",
+        "ms-MY",
+        "it-IT",
+        "vi-VN",
+        "es-ES",
+        "pl-PL",
+        "pt-BR",
+        "fr-FR"
+      ],
+      "audio_locale": "ja-JP",
+      "versions": [
+        {
+          "audio_locale": "ja-JP",
+          "guid": "GYE5CQMQ5",
+          "original": true,
+          "variant": ""
+        },
+        {
+          "audio_locale": "en-US",
+          "guid": "GYE5CQM05",
+          "original": false,
+          "variant": ""
+        },
+        {
+          "audio_locale": "fr-FR",
+          "guid": "GRDQCGK7G",
+          "original": false,
+          "variant": ""
+        },
+        {
+          "audio_locale": "pt-BR",
+          "guid": "GRZXCMK93",
+          "original": false,
+          "variant": ""
+        },
+        {
+          "audio_locale": "es-419",
+          "guid": "GY8VCPX53",
+          "original": false,
+          "variant": ""
+        },
+        {
+          "audio_locale": "de-DE",
+          "guid": "G6Q4CZJWG",
+          "original": false,
+          "variant": ""
+        },
+        {
+          "audio_locale": "es-ES",
+          "guid": "GYWEC3X00",
+          "original": false,
+          "variant": ""
+        },
+        {
+          "audio_locale": "hi-IN",
+          "guid": "GYGGCV91P",
+          "original": false,
+          "variant": ""
+        },
+        {
+          "audio_locale": "ta-IN",
+          "guid": "GR09CXPZV",
+          "original": false,
+          "variant": ""
+        },
+        {
+          "audio_locale": "it-IT",
+          "guid": "G65VCDPGM",
+          "original": false,
+          "variant": ""
+        },
+        {
+          "audio_locale": "te-IN",
+          "guid": "GRP8CXPG4",
+          "original": false,
+          "variant": ""
+        },
+        {
+          "audio_locale": "pl-PL",
+          "guid": "GS00324919PLPL",
+          "original": false,
+          "variant": ""
+        }
+      ],
+      "identifier": "GG5H5XQX4|S00324919",
+      "number_of_episodes": 28
+    },
+    {
+      "id": "G6X0C4JDV",
+      "channel_id": "crunchyroll",
+      "title": "Season 2",
+      "slug_title": "season-2",
+      "series_id": "GG5H5XQX4",
+      "season_display_number": "",
+      "season_sequence_number": 2,
+      "season_number": 2,
+      "is_complete": false,
+      "description": "The journey of a millennium-old elf mage Frieren, a mage named Fern, and the warrior Stark continues. On their way to Aureole, the land where souls rest, the party learns from those that they meet along the way and fight off cunning demons and monsters. As the trio continues making irreplaceable memories, they begin to wonder what awaits them at the end of their journey.",
+      "keywords": [
+        "winter-2026"
+      ],
+      "season_tags": [
+        "winter-2026"
+      ],
+      "images": {},
+      "extended_maturity_rating": {
+        "system": "cr-tv",
+        "rating": "14",
+        "level": "M2"
+      },
+      "maturity_ratings": [
+        "TV-14"
+      ],
+      "content_descriptors": [
+        "Violence",
+        "Smoking"
+      ],
+      "content_descriptors_with_symbol": [
+        {
+          "label": "Violence"
+        },
+        {
+          "label": "Smoking"
+        }
+      ],
+      "is_mature": false,
+      "mature_blocked": false,
+      "is_subbed": true,
+      "is_dubbed": true,
+      "is_simulcast": false,
+      "seo_title": "",
+      "seo_description": "",
+      "availability_notes": "",
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "pt-BR",
+        "es-ES",
+        "id-ID",
+        "th-TH",
+        "zh-HK",
+        "ar-SA",
+        "it-IT",
+        "ms-MY",
+        "zh-CN",
+        "pl-PL",
+        "en-US",
+        "vi-VN",
+        "es-419",
+        "de-DE",
+        "ru-RU",
+        "fr-FR"
+      ],
+      "audio_locale": "ja-JP",
+      "versions": [
+        {
+          "audio_locale": "ja-JP",
+          "guid": "G6X0C4JDV",
+          "original": true,
+          "variant": ""
+        },
+        {
+          "audio_locale": "en-US",
+          "guid": "G6JQC19J7",
+          "original": false,
+          "variant": ""
+        },
+        {
+          "audio_locale": "fr-FR",
+          "guid": "GR75CDMWJ",
+          "original": false,
+          "variant": ""
+        },
+        {
+          "audio_locale": "de-DE",
+          "guid": "GR9PC25D5",
+          "original": false,
+          "variant": ""
+        },
+        {
+          "audio_locale": "it-IT",
+          "guid": "G6X0C4JKW",
+          "original": false,
+          "variant": ""
+        },
+        {
+          "audio_locale": "es-ES",
+          "guid": "GR49C71M5",
+          "original": false,
+          "variant": ""
+        },
+        {
+          "audio_locale": "es-419",
+          "guid": "GY19CP9EQ",
+          "original": false,
+          "variant": ""
+        },
+        {
+          "audio_locale": "pt-BR",
+          "guid": "GRJQC19X7",
+          "original": false,
+          "variant": ""
+        },
+        {
+          "audio_locale": "hi-IN",
+          "guid": "G6NQCJ27J",
+          "original": false,
+          "variant": ""
+        },
+        {
+          "audio_locale": "ta-IN",
+          "guid": "GRK5CNM43",
+          "original": false,
+          "variant": ""
+        },
+        {
+          "audio_locale": "te-IN",
+          "guid": "GRMGC3Q4E",
+          "original": false,
+          "variant": ""
+        },
+        {
+          "audio_locale": "th-TH",
+          "guid": "G6E5CQXGE",
+          "original": false,
+          "variant": ""
+        },
+        {
+          "audio_locale": "pl-PL",
+          "guid": "GS00365545PLPL",
+          "original": false,
+          "variant": ""
+        }
+      ],
+      "identifier": "GG5H5XQX4|S00365545",
+      "number_of_episodes": 10
+    }
+  ],
+  "meta": {
+    "versions_considered": true
+  },
+  "total": 2,
+  "chirashi": {
+    "params": {
+      "locale": "en-US",
+      "force_locale": null
+    },
+    "headers": {
+      "referer": "https://www.crunchyroll.com/series/GG5H5XQX4"
+    },
+    "url": "https://beta-api.crunchyroll.com/content/v2/cms/series/GG5H5XQX4/seasons",
+    "timestamp": "2026-07-06T03:02:39.105727-07:00"
+  }
+}

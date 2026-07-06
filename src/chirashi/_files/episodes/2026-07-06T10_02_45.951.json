@@ -1,0 +1,15 @@
+{
+  "data": [],
+  "meta": {},
+  "total": 0,
+  "chirashi": {
+    "params": {
+      "locale": "en-US"
+    },
+    "headers": {
+      "referer": "https://www.crunchyroll.com/series/GGGGGGGGG"
+    },
+    "url": "https://beta-api.crunchyroll.com/content/v2/cms/seasons/GGGGGGGGG/episodes",
+    "timestamp": "2026-07-06T03:02:45.951843-07:00"
+  }
+}
